@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Login */
+.box_main {
+    border: 2px solid red;
+    width: 1000px;
+    margin: auto;
+}
+
+/* Login principal*/
+.box_login {
+    display: inline-block;
+    text-align: center;
+}
+
+.Or p{
+    display: inline-block;
+}
+
+.line_Or {
+    display: inline-block;
+    border: 1px solid black;
+    width: 100px;
+    margin-bottom: 5px;
+}
+
+/* Login - Facebook*/
+.facebook_sign-in p{
+    display: inline-block;
+}
+
+.facebook_sign-in img {
+    width: 20px;
+}
+
+/* Forgot the password*/
+.forgot_password {
+    display: block;
+}
+
+/* Sign-in */
+.sign-in {
+    display: inline-block;
+}
+
+/* Download App - Google Play & Microsoft*/
+.download_app img {
+    width: 100px;
+}
+
+/* Footer */
+footer {
+    border: 2px solid blue;
+    text-align: center;
+}
+
+.menu p{
+    display: inline-block;
+}
+
+.select_languages {
+    display: inline-block;
+    width: 120px;
+}
+
+.language_copyright p {
+    display: inline;
+}
